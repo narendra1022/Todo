@@ -2,7 +2,6 @@ package com.example.todolist.Data.Models
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
-import com.example.todolist.Domain.Model.Task
 
 @Entity(tableName = "tasks")
 data class TaskEntity(

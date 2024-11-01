@@ -4,7 +4,6 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.paging.PagingData
 import androidx.paging.cachedIn
-import com.example.todolist.Domain.Model.Task
 import com.example.todolist.Domain.UseCases.TaskUseCases
 import com.example.todolist.Presentation.States.SnackbarEvent
 import com.example.todolist.Presentation.States.TaskEvent
