@@ -18,8 +18,3 @@ A simple, modern offline-first To-do List app built using Android's latest techn
 - **MVVM Architecture**: For separation of concerns and testability.
 - **Hilt**: For Dependency Injection.
 - **Kotlin Coroutines & Flow**: For managing background tasks and reactive data streams.
-
-## How to Build
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/narendra1022/Todo.git
